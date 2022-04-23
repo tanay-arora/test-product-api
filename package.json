@@ -1,0 +1,27 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "rest api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "dependencies": {
+    "cors": "^2.8.5",
+    "event-stream": "^4.0.1",
+    "express": "^4.17.1",
+    "s": "^1.0.0",
+    "underscore": "^1.13.1"
+  }
+}
